@@ -162,6 +162,7 @@ void delete_val(int data)
 void delete_pos()
 {
         int i,pos;
+        node *temp;
         /**struct node *temp;**/
         if(head==NULL)
         {
